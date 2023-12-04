@@ -1,4 +1,4 @@
-[16:29] Sachidananda V K
+
 #include "headerfile.h"
 
 #include "structure.h"
